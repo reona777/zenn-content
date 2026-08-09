@@ -3,7 +3,7 @@ title: "非エンジニアがClaude Codeで社内ツールを6本 本番稼働�
 emoji: "🔧"
 type: "tech"
 topics: ["claudecode", "gas", "salesforce", "nextjs", "業務効率化"]
-published: false
+published: true
 ---
 
 教育系の事業所で現場の運営をしています。エンジニアではありません。コードを書くのは仕事ではないし、実務経験もありません。
