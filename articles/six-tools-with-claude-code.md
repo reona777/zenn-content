@@ -126,3 +126,9 @@ https://github.com/reona777
 - `salesforce-lesson-reschedule` — 予定の振替処理（Python）
 - `playwright-spreadsheet-sync` — スクレイピングによる差分同期（Python）
 - `teacher-availability-calendar` — スタッフの空き時間カレンダー（TypeScript / Next.js）
+
+## 書いている人
+
+エンジニアではありません。勤務先の業務ツールを Claude Code で作って運用していて、作ったものと、壊れたときに直した話を書いています。
+
+Claude Code の実務運用については X（[@KouritsuONI](https://x.com/KouritsuONI)）でも書いています。スプレッドシート・GAS・LINE・Salesforce まわりの業務自動化について、ご相談は X のDMからどうぞ。

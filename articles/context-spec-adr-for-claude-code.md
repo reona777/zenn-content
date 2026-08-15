@@ -248,3 +248,9 @@ ADRの末尾には、その決定によって引き受けた不便を書きま�
 ほかに作ったものは GitHub に置いています。
 
 https://github.com/reona777
+
+## 書いている人
+
+エンジニアではありません。勤務先の業務ツールを Claude Code で作って運用していて、作ったものと、壊れたときに直した話を書いています。
+
+Claude Code の実務運用については X（[@KouritsuONI](https://x.com/KouritsuONI)）でも書いています。スプレッドシート・GAS・LINE・Salesforce まわりの業務自動化について、ご相談は X のDMからどうぞ。
